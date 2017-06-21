@@ -1,5 +1,4 @@
-#Timothy Haney
-#exercise 9.2
+
 
 #creat an investment calculator
 

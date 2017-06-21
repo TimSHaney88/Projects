@@ -1,4 +1,4 @@
-#exercise 9.17
+
 
 from tkinter import * # Import tkinter
 import time

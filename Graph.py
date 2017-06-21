@@ -1,4 +1,4 @@
-#exercise 9.7
+
 
 from tkinter import * # Import tkinter
 
